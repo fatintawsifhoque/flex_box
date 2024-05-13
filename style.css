@@ -1,0 +1,150 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  height: 800px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:#410960 ;
+  justify-content: space-around;
+}
+.main1{
+height: 400px;
+width: 45%;
+display: flex;
+justify-content: space-around;
+flex-direction: column;
+}
+
+.main2{
+  height: 400px;
+  width: 45%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  }
+  .m{
+      height:300px ;
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      
+  }
+  .con1{
+      height:300px ;
+      width: 48%;
+      display: flex;
+      justify-content: space-around;
+      flex-direction: column;
+  }
+  .con2{
+      height:300px ;
+      width: 48%;
+      display: flex;
+      flex-direction: column-reverse;
+      
+      
+  }
+  .con3{
+      height:300px ;
+      width:4% ;}
+  .b1{
+      height: 25%;
+      width: 100%;
+      background-color: #BC53D4;
+  }
+  .b2{
+      height: 55%;
+      width: 100%;
+      background-color:#FCA811 ;
+      margin-top: 17px;
+      margin-bottom: 11px;
+  }
+  .b3{
+      height: 35%;
+      width: 100%;
+      background-color: #F2404E;
+  }
+  .b4{
+      height: 94%;
+      width:100%;
+      background-color:#00BECE ;
+  }
+  .m1{
+      height: 64%;
+      width: 100%;
+     
+      display: flex;
+  }
+  .b5{
+      height: 33%;
+      width: 100%;
+      background-color: #BC53D4;
+  }
+  .con6{
+      height: 3%;
+      width: 100%;
+  }
+  .con8{
+      height: 100%;
+      width: 48%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      
+  }
+  .con9{
+      height: 100%;
+      width: 48%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+  }
+  .con10{
+      height: 100%;
+      width: 4%;
+  }
+
+  .b11{
+      height: 30%;
+      width: 100%;
+      background-color: #F2404E;
+      margin-bottom: 12px;
+  }
+
+  .b12{
+      height: 25%;
+      width: 100%;
+      background-color: #00BECE;
+      margin-bottom: 5px;
+  }
+
+  .b13{
+      height: 36%;
+      width: 100%;
+      background-color: #FCA811;
+      margin-top: 7px;
+  }
+  
+  .b15{
+      height: 36%;
+      width: 100%;
+      background-color: #00BECE;
+      margin-bottom: 12px;
+  }
+  .b16{
+      height: 29%;
+      width: 100%;
+      background-color: #FCA811;
+      margin-bottom: 5px;
+  }
+
+  .b17{
+      height: 25%;
+      width: 100%;
+      background-color: #F2404E;
+      margin-top: 7px;
+  }
